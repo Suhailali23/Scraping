@@ -8,7 +8,7 @@ Instructions
 Setup
 
 Clone this repo:
-git clone 
+git clone https://suhailali23.github.io/Scraping/.
 
 Run this command:
 
