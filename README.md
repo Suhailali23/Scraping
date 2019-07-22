@@ -1,5 +1,5 @@
 # Scraping
-What you need to run this app:
+Install :
 
 Node.Js
 
