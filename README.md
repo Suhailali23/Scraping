@@ -18,7 +18,7 @@ Running the code
 
 1) Execute this command in your terminal:
 
-node app.js
+node server.js
 
 2) Open the app in your browser:
 
