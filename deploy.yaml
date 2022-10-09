@@ -14,5 +14,3 @@ jobs:
     steps:     
     - name: Install Packages
       run: npm install --no-package-lock
-    - name: Run on server
-      run: node server.js
