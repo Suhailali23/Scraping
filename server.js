@@ -69,8 +69,6 @@ app.post('/scrape', function(req, res){
         res.end(JSON.stringify(resObj));
     });
 });
-// test
-
     
 
 //listen for an HTTP request
